@@ -1,7 +1,7 @@
 # ITvKurzeFinalProject
 Final project of online course IT v Kurze - 2D Game (top-down shooter)
 
-#@ To play the game you need to:
+## To play the game you need to:
 
 1) Have / download at least Java SE Runtime Environment (best latest version)
 
