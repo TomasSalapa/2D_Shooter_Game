@@ -6,6 +6,7 @@ Final project of online course IT v Kurze - 2D Game (top-down shooter)
 1) Have / download at least Java SE Runtime Environment (best latest version).
 2) Download the "KillYourMamaZombie - runnable jar" folder.
 3) Run the "KillYourMamaZombie.jar" file and play!
+4) Internet connection is required due to online database -  highscore system.
 
 **The jar file needs to be together with all the files inside the "KillYourMamaZombie - runnable jar" folder, in order to run!**
 
