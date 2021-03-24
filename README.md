@@ -7,6 +7,8 @@ Final project of online course IT v Kurze - 2D Game (top-down shooter)
 2) Download the "KillYourMamaZombie - runnable jar" folder.
 3) Run the "KillYourMamaZombie.jar" file and play!
 
+**The jar file needs to be togerther with all the files inside the "KillYourMamaZombie - runnable jar" folder, in order to run!**
+
 ## Sources:
 
 Image sources: https://www.kenney.nl/
