@@ -1,5 +1,6 @@
 # ITvKurzeFinalProject
-Final project of online course IT v Kurze - 2D Game (top-down shooter)
+Final project of online course IT v Kurze - 2D Game / top-down shooter.
+To learn more about the game, read Infographics.pdf file with graphic manual.
 
 ## To play the game you need to:
 
